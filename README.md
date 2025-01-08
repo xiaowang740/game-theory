@@ -1,4 +1,4 @@
-# game-theory 这里的图3、4、5、6都是原论文中的图片编号，代码使用Python的matlab模块编写
+# game-theory 这里的图3、4、5、6都是原论文中的图片编号，代码使用Python的matlab模块编写，仿真结果图片在论文的实验部分展示
 博弈论论文代码 图4
 import numpy as np
 import matplotlib.pyplot as plt
